@@ -12,21 +12,9 @@ Building the robot was one of the easiest things ever. We started by taking idea
 
 When we started programming we realized towards the end that we had to modify the structure of the robot a bit. The sensors that we had placed on the sides needed to be moved to the corners, as they would detect the walls better.
 
-Columna 2	                        Quantity	  Description
-Arduino V4 minima	                1	          Main controller board 		
-Camara HuskyLens	                1	          Used to identify colors		
-Expansion shield	                1	          Used to simplify connections to the Arduino		
-Ultrasonic Sensor	                3	          Used to avoid the walls		
-Battery 5.000mA	                  1			
-Voltage regulator LM2596S	        1	          Outputs 5V at 1A		
-Motor Driver L298N	              1			
-Button switch	                    1	          Starts the program		
-Master Switch	                    1	          Connects the battery		
-Soldering Board	                  1			
-10k resistor	                    1	          Pullup resistor		
-Chassis Kit                       1	          Purchased	
-(All following elements form the kit)		
-12V dc motor	                    1			
+![{07B24EFF-9448-4B25-883E-B94FF1380410}](https://github.com/user-attachments/assets/623976e6-7ef4-4232-87ce-7c7b7c17ae0c)
+
+
 6V servo and steering rods	      1			
 Metal frame	                      1	          The frame of the robot		
 Transmisson (Axle, gear reductor)	1			
