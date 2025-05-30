@@ -4,7 +4,7 @@ Hello, we are the Vila-Stem 8 team.
 It's our first year competing in Future Engineers, the truth is that we are quite excited to start this, it's a new challenge for us.
 Our team is formed by 3 people of different ages, led by our captain Anes.
 We have Juan who is an expert in Arduino, he is the one who taught us everything at the beginning, he is a fan of Arduino and everything related.
-And finally there is me, Ainhoa, I started doing Arduino a long time ago but I barely remembered, now I have very nice memories. We can say that my job has been to oversee the programming and make the construction of the robot (whenever something happens to the robot, Juan and Anes always blame me).
+And finally there is me, Ainhoa, I started doing Arduino a long time ago but I barely remembered, now I have very nice memories. We can say that my job has been to oversee the programming and make the construction of the robot REDACTED).
 
 We have the idea to go all out, do the 3 laps of the course and then try the obstacle detection. The truth is that the process of programming the robot has been very difficult, because every day it did something different. In the end we decided that for each modification we would make a copy of the program so that if it failed it would be easier to detect the failure.
 
