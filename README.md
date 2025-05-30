@@ -11,3 +11,24 @@ We have the idea to go all out, do the 3 laps of the course and then try the obs
 Building the robot was one of the easiest things ever. We started by taking ideas from previous years. We bought the basics, board one, some wheels, screws and distance sensors. The base we decided to make it from scratch in 3d. We drew what we wanted and then we took it to Tinkercad where we printed it. We made a nice base with everything ready, where to put the sensors, the battery and the most important thing, the board!
 
 When we started programming we realized towards the end that we had to modify the structure of the robot a bit. The sensors that we had placed on the sides needed to be moved to the corners, as they would detect the walls better.
+
+Columna 2	                        Quantity	  Description
+Arduino V4 minima	                1	          Main controller board 		
+Camara HuskyLens	                1	          Used to identify colors		
+Expansion shield	                1	          Used to simplify connections to the Arduino		
+Ultrasonic Sensor	                3	          Used to avoid the walls		
+Battery 5.000mA	                  1			
+Voltage regulator LM2596S	        1	          Outputs 5V at 1A		
+Motor Driver L298N	              1			
+Button switch	                    1	          Starts the program		
+Master Switch	                    1	          Connects the battery		
+Soldering Board	                  1			
+10k resistor	                    1	          Pullup resistor		
+Chassis Kit                       1	          Purchased	
+(All following elements form the kit)		
+12V dc motor	                    1			
+6V servo and steering rods	      1			
+Metal frame	                      1	          The frame of the robot		
+Transmisson (Axle, gear reductor)	1			
+3d printed chassis	              1	          Added for more space to store the battery and equipment		
+Wheel 	                          4			
