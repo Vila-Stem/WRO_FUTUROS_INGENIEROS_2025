@@ -15,8 +15,4 @@ When we started programming we realized towards the end that we had to modify th
 ![{07B24EFF-9448-4B25-883E-B94FF1380410}](https://github.com/user-attachments/assets/623976e6-7ef4-4232-87ce-7c7b7c17ae0c)
 
 
-6V servo and steering rods	      1			
-Metal frame	                      1	          The frame of the robot		
-Transmisson (Axle, gear reductor)	1			
-3d printed chassis	              1	          Added for more space to store the battery and equipment		
-Wheel 	                          4			
+
