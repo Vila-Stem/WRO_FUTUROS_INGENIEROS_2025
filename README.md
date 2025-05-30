@@ -12,7 +12,10 @@ Building the robot was one of the easiest things ever. We started by taking idea
 
 When we started programming we realized towards the end that we had to modify the structure of the robot a bit. The sensors that we had placed on the sides needed to be moved to the corners, as they would detect the walls better.
 
-![{07B24EFF-9448-4B25-883E-B94FF1380410}](https://github.com/user-attachments/assets/623976e6-7ef4-4232-87ce-7c7b7c17ae0c)
+List of materials used for the regional:
+
+![{DE6D4A17-8DF2-45C8-9E78-3939F9110F95}](https://github.com/user-attachments/assets/a7a883ee-b089-45c3-998b-ecc6a5885cd1)
+
 
 
 
