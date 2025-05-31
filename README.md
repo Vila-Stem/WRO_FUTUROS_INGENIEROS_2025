@@ -1,5 +1,6 @@
 # Vila-Stem8
-Hello, we are the Vila-Stem 8 team.
+Hello, we are the Vila-Stem 8 team. 
+We come from an academy of Vila-real (Vila-Stem)
 ![VS8 (1)](https://github.com/user-attachments/assets/a4774f91-6fe7-40f2-a07a-25e1a2d4d9e4)
 It's our first year competing in Future Engineers, the truth is that we are quite excited to start this, it's a new challenge for us.
 Our team is formed by 3 people of different ages, led by our captain Anes.
