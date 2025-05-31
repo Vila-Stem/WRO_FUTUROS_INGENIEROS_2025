@@ -1,4 +1,4 @@
-# Vila-Stem8
+# Vila-Stem 8
 Hello, we are the Vila-Stem 8 team. 
 We come from an academy of Vila-real (Vila-Stem)
 ![VS8 (1)](https://github.com/user-attachments/assets/a4774f91-6fe7-40f2-a07a-25e1a2d4d9e4)
