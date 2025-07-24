@@ -14,6 +14,13 @@ Members
 
   Coach
 - Roman Mormeneo
+
+  Links to our socials:
+  - Facebook:
+ 
+  - Instagram:
+
+  - Tiktok:
 # Robot
 Building the robot was one of the easiest things ever. We started by taking ideas from previous years. We bought the basics, board one, some wheels, screws and distance sensors. The base we decided to make it from scratch in 3d. We drew what we wanted and then we took it to Tinkercad where we printed it. We made a nice base with everything ready, where to put the sensors, the battery and the most important thing, the board!
 
