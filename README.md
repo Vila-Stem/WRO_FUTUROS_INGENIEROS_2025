@@ -30,7 +30,7 @@ Our team consists of 3 members and a coach, we are the Vila-Stem 8 team from Vil
  
   - **Instagram**:https://www.instagram.com/vila_stem?igsh=Nmw1OHVpN242b2xh
 
-  - **Tiktok**:
+  - **Tiktok**:https://www.tiktok.com/@vila_stem?_t=ZN-8yPXRYwSxYk&_r=1
 # Robot
 Building the robot was one of the easiest things ever. We started by taking ideas from previous years. We bought the basics, board one, some wheels, screws and distance sensors. The base we decided to make it from scratch in 3d. We drew what we wanted and then we took it to Tinkercad where we printed it. We made a nice base with everything ready, where to put the sensors, the battery and the most important thing, the board!
 
