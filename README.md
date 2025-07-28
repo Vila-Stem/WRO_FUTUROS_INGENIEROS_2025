@@ -26,7 +26,7 @@ Our team consists of 3 members and a coach, we are the Vila-Stem 8 team from Vil
   - vilastemrobotics@gmail.com
 
 >Links to our socials:
-  - **Facebook**:
+  - **Facebook**:https://www.facebook.com/share/1NDRsjeibe/
  
   - **Instagram**:https://www.instagram.com/vila_stem?igsh=Nmw1OHVpN242b2xh
 
