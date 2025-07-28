@@ -2,7 +2,7 @@
 ![VS8 (1)](https://github.com/user-attachments/assets/a4774f91-6fe7-40f2-a07a-25e1a2d4d9e4)
 # Table of contents
 ### [Our journey](#our-journey)
-### [Videos](/video/video.md)
+### [Videos](/videos/videos.md)
 ### [Team Photos](/t-photos/)
 ### [Vehicle Photos](/v-photos/)
 # Our journey
