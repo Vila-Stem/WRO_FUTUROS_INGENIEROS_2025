@@ -1,26 +1,29 @@
 # Vila-Stem 8
 ![VS8 (1)](https://github.com/user-attachments/assets/a4774f91-6fe7-40f2-a07a-25e1a2d4d9e4)
 # Table of contents
-# Our journey
+### [Our journey]
 This text contains our struggles and achievements, which we have came across during our few months of preparation. How many things we had to redesign, how many things we had to figure out to make our robot work.
-# Team
+## Team
 Our team consists of 3 members and a coach, we are the Vila-Stem 8 team from Vila-real. This is our first year competing together in WRO, but is our first year in the Future Engineers category.
-Members
-- Juan Silvestre
+>Members
+- **Juan Silvestre**
+  -    
+- **Anes Rahmi**
+  -
+- **Ainhoa Mormeneo**
+  -
 
-- Anes Rahmi
+  >Coach
 
-- Ainhoa Mormeneo
-
-  Coach
-- Roman Mormeneo
+- **Roman Mormeneo**
+  - vilastemrobotics@gmail.com
 
   Links to our socials:
-  - Facebook:
+  - **Facebook**:
  
-  - Instagram:
+  - **Instagram**:
 
-  - Tiktok:
+  - **Tiktok**:
 # Robot
 Building the robot was one of the easiest things ever. We started by taking ideas from previous years. We bought the basics, board one, some wheels, screws and distance sensors. The base we decided to make it from scratch in 3d. We drew what we wanted and then we took it to Tinkercad where we printed it. We made a nice base with everything ready, where to put the sensors, the battery and the most important thing, the board!
 
