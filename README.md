@@ -47,7 +47,7 @@ When we started programming we realized towards the end that we had to modify th
     - Used to identify colors
 - Expansion shield (1)
     - Used to simplify connections to the Arduino
-- Ultrasonic Sensor (6)
+- Ultrasonic Sensor (3)
     - Used to avoid the walls
 - Battery 5.000mA (1)
 - Voltage regulator LM2596S (1)
