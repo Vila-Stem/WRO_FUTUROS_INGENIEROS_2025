@@ -5,6 +5,7 @@
 ### [Videos](/Videos/)
 ### [Team Photos](/t-photos/)
 ### [Vehicle Photos](/v-photos/)
+### [List of materials used for the regional](#List-of-materials-used-for-the-regional)
 # Our journey
 This text contains our struggles and achievements, which we have came across during our few months of preparation. How many things we had to redesign, how many things we had to figure out to make our robot work.
 
