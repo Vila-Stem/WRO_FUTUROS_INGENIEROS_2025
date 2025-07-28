@@ -1,24 +1,31 @@
 # Vila-Stem 8
 ![VS8 (1)](https://github.com/user-attachments/assets/a4774f91-6fe7-40f2-a07a-25e1a2d4d9e4)
 # Table of contents
-### [Our journey]
+### [Our journey](#our-journey)
+### [Videos](/video/video.md)
+### [Team Photos](/t-photos/)
+### [Vehicle Photos](/v-photos/)
+# Our journey
 This text contains our struggles and achievements, which we have came across during our few months of preparation. How many things we had to redesign, how many things we had to figure out to make our robot work.
+
 ## Team
 Our team consists of 3 members and a coach, we are the Vila-Stem 8 team from Vila-real. This is our first year competing together in WRO, but is our first year in the Future Engineers category.
->Members
-- **Juan Silvestre**
-  -    
-- **Anes Rahmi**
-  -
-- **Ainhoa Mormeneo**
-  -
 
-  >Coach
+>Members
+
+- **Juan Silvestre**
+  - First year competing in WRO and in the Future Engineers category.
+- **Anes Rahmi**
+  - First year competing in WRO and in the Future Engineers category.
+- **Ainhoa Mormeneo**
+  - Fourth year competing in WRO and first time in the Future Engineers category.
+
+>Coach
 
 - **Roman Mormeneo**
   - vilastemrobotics@gmail.com
 
-  Links to our socials:
+>Links to our socials:
   - **Facebook**:
  
   - **Instagram**:
