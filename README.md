@@ -39,7 +39,34 @@ When we started programming we realized towards the end that we had to modify th
 
 # List of materials used for the regional:
 
-![{DE6D4A17-8DF2-45C8-9E78-3939F9110F95}](https://github.com/user-attachments/assets/a7a883ee-b089-45c3-998b-ecc6a5885cd1)
+- Arduino V4 minima (1)
+    - Main controller board
+- Camara HuskyLens (1)
+    - Used to identify colors
+- Expansion shield (1)
+    - Used to simplify connections to the Arduino
+- Ultrasonic Sensor (6)
+    - Used to avoid the walls
+- Battery 5.000mA (1)
+- Voltage regulator LM2596S (1)
+    - Outputs 5V at 1A
+- Motor Driver L298N (1)
+- Button switch (1)
+    - Starts the program
+- Master switch (1)
+    - Connects the battery
+- Soldering Board (1)
+- 10k resistor (1)
+    - Pullup resistor
+- Chassis Kit (1)
+    - Purchased
+- 12V dc motor (1)
+- 6V servo ans steering rods (1)
+- Metal frame (1)
+    - The frame of the robot
+- Transmission (Axle, gear reductor) (1)
+- 3D printed chassis (1)
+    - Added for more space to store the battery and equipment
 
 # MODIFICATIONS AFTER THE REGIONAL COMPETITION
 In Denia we learned a lot about our mistakes, we also followed improvement instructions that our jury told us. 
