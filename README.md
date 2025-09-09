@@ -82,5 +82,26 @@ Orange: 3677-3296
 Blue: 5901-3900
 White: 4439 
 
-
+# List of materials used for the nacional:
+- ESP-32
+    - (Microcontroller)
+- TCS34725
+  - (Colour sensor)
+- VL53L1X
+    - (ToF/distance sensor)
+- L298n
+    - (Motor driver)
+- Lm2596
+    - (Buck Converter)
+- HuskyLens Camera
+    - (Colour detection, for obstacles)
+- Switch
+    - (Master Power)
+- Pushbutton
+    - (Start)
+- Servo
+    - (Steering)
+- 12V DC motor
+    - (movement)
+- Pull-up resitors
 
