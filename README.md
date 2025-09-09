@@ -81,27 +81,28 @@ After successfully programming the laser sensor, we looked for a solution to det
 Orange: 3677-3296
 Blue: 5901-3900
 White: 4439 
+After all the tests, the robot will only have 3 laser sensors and 1 colour sensor. We place the 3 sensors at the front and the colour sensor under the white 3D-printed platform.
 
 # List of materials used for the nacional:
-- ESP-32
+- ESP-32(1)
     - (Microcontroller)
-- TCS34725
+- TCS34725(1)
   - (Colour sensor)
-- VL53L1X
+- VL53L1X(3)
     - (ToF/distance sensor)
-- L298n
+- L298n(1)
     - (Motor driver)
-- Lm2596
+- Lm2596(1)
     - (Buck Converter)
-- HuskyLens Camera
+- HuskyLens Camera(1)
     - (Colour detection, for obstacles)
-- Switch
+- Switch(1)
     - (Master Power)
-- Pushbutton
+- Pushbutton(1)
     - (Start)
-- Servo
+- Servo(1)
     - (Steering)
-- 12V DC motor
+- 12V DC motor(1)
     - (movement)
-- Pull-up resitors
+- Pull-up resitors(1)
 
